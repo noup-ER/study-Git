@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 abcd
+=======
+qwbeniqrbwie
+>>>>>>> Stashed changes
