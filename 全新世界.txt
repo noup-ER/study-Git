@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 wqebubua4
 sbadubf1
 bauwebfzc1
 asbdifuweba1
+=======
+wqebubuaqq
+sbadubfqq
+bauwebfzc23
+asbdifuweba1235
+>>>>>>> 8c87c46 (coco)

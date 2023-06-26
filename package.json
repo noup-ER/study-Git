@@ -1,0 +1,16 @@
+{
+  "name": "git1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:noup-ER/study-Git.git",
+  "author": "ekko <2906703228@qq.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "5",
+    "eslint-plugin-react": "^7.32.2"
+  },
+  "dependencies": {
+    "ramda": "^0.29.0"
+  }
+}
